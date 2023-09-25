@@ -43,8 +43,8 @@ Bloomingdale Window Portfolio is more than just a portfolio; it's an immersive j
 
 ### Gallery
 
-![PC Version 1](images/pc-version1.png)
-![PC Version 2](images/pc-version2.png)
+![PC Version 1](images/W44.png)
+![PC Version 2](images/W55.png)
 
 ## 💻 Installation
 
